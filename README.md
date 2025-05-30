@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💰 Welth – Your Financial Wellness Partner
 
-## Getting Started
+**Welth** is an intelligent, privacy-focused expense tracking web application designed to help users take control of their finances. It offers a seamless interface to manage income, expenses, and budgets while leveraging AI to auto-scan receipts and extract transaction details.
 
-First, run the development server:
+Whether you're budgeting for the month, monitoring your spending habits, or simply want smarter money management — Welth has your back.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 📊 Dashboard
+- Monthly budget progress bar
+- Recent transactions panel
+- Interactive pie chart for category-wise spending
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 💼 Account Management
+- Add multiple accounts
+- Set a default account
+- View account-specific transactions
 
-## Learn More
+### 💸 Transaction Management
+- Add, edit, delete income and expenses
+- Categorization and notes
+- Filter by account, date, or category
 
-To learn more about Next.js, take a look at the following resources:
+### 🤖 AI Receipt Scanner
+- Upload receipts
+- Gemini AI extracts merchant, date, amount, and category
+- Auto-fill transaction form with scanned data
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🔔 Smart Alerts
+- Email notifications for high spending
+- Budget reminders via Resend email
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🧱 Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| Layer        | Technology                       |
+|--------------|-----------------------------------|
+| Frontend     | Next.js 14, Tailwind CSS, shadcn UI |
+| Backend/API  | Prisma ORM, Supabase Database     |
+| AI           | Gemini Pro (for receipt scanning) |
+| Auth         | Clerk (Google & OTP login)        |
+| Emails       | Resend (transactional alerts)     |
+| Charts & UI  | Recharts, Lucide Icons            |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📸 Screenshots
+
+*(Add dashboard screenshot, receipt scanner demo, email alert example)*
+
+---
+
+## 🌐 Live Demo
+
+👉 [Click Here to Try Welth](#) *(Add your deployment link here)*
+
+---
+
+## 📁 Folder Structure
+
