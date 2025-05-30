@@ -55,7 +55,7 @@ Whether you're budgeting for the month, monitoring your spending habits, or simp
 
 ## 🌐 Live Demo
 
-👉 [Click Here to Try Welth](#) *[(Add your deployment link here)](https://welth-mauve-eta.vercel.app/)*
+👉 [Click Here to Try Welth](#) *(https://welth-mauve-eta.vercel.app/)*
 
 ---
 
