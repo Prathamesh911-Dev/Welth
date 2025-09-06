@@ -1,4 +1,4 @@
-# 💰 Welth – Your Financial Wellness Partner
+<img width="1888" height="923" alt="Screenshot 2025-03-20 113936" src="https://github.com/user-attachments/assets/6cb1026c-9a77-419f-a60b-44b30bd60ca5" /># 💰 Welth – Your Financial Wellness Partner
 
 **Welth** is an intelligent, privacy-focused expense tracking web application designed to help users take control of their finances. It offers a seamless interface to manage income, expenses, and budgets while leveraging AI to auto-scan receipts and extract transaction details.
 
@@ -49,7 +49,10 @@ Whether you're budgeting for the month, monitoring your spending habits, or simp
 
 ## 📸 Screenshots
 
-*(Add dashboard screenshot, receipt scanner demo, email alert example)*
+<img width="1888" height="923" alt="Screenshot 2025-03-20 113936" src="https://github.com/user-attachments/assets/4fd48d87-f31b-477b-9f94-326edf55071d" />
+
+
+
 
 ---
 
