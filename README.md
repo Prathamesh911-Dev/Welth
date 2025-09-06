@@ -50,6 +50,8 @@ Whether you're budgeting for the month, monitoring your spending habits, or simp
 ## 📸 Screenshots
 
 <img width="1888" height="923" alt="Screenshot 2025-03-20 113936" src="https://github.com/user-attachments/assets/4fd48d87-f31b-477b-9f94-326edf55071d" />
+<img width="1872" height="919" alt="Screenshot 2025-03-20 114454" src="https://github.com/user-attachments/assets/0c132ff3-8ad5-44c2-a79d-c2a8db521037" />
+
 
 
 
